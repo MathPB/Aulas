@@ -1,0 +1,7 @@
+C:\Users\Matheus\source\repos\MatrizFoda\MatrizFoda\bin\Debug\MatrizFoda.exe.config
+C:\Users\Matheus\source\repos\MatrizFoda\MatrizFoda\bin\Debug\MatrizFoda.exe
+C:\Users\Matheus\source\repos\MatrizFoda\MatrizFoda\bin\Debug\MatrizFoda.pdb
+C:\Users\Matheus\source\repos\MatrizFoda\MatrizFoda\obj\Debug\MatrizFoda.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\MatrizFoda\MatrizFoda\obj\Debug\MatrizFoda.exe
+C:\Users\Matheus\source\repos\MatrizFoda\MatrizFoda\obj\Debug\MatrizFoda.pdb
+C:\Users\Matheus\source\repos\MatrizFoda\MatrizFoda\obj\Debug\MatrizFoda.csprojAssemblyReference.cache

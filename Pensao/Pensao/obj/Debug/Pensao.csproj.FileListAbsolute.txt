@@ -1,0 +1,7 @@
+C:\Users\Matheus\source\repos\Pensao\Pensao\bin\Debug\Pensao.exe.config
+C:\Users\Matheus\source\repos\Pensao\Pensao\bin\Debug\Pensao.exe
+C:\Users\Matheus\source\repos\Pensao\Pensao\bin\Debug\Pensao.pdb
+C:\Users\Matheus\source\repos\Pensao\Pensao\obj\Debug\Pensao.csprojAssemblyReference.cache
+C:\Users\Matheus\source\repos\Pensao\Pensao\obj\Debug\Pensao.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\Pensao\Pensao\obj\Debug\Pensao.exe
+C:\Users\Matheus\source\repos\Pensao\Pensao\obj\Debug\Pensao.pdb

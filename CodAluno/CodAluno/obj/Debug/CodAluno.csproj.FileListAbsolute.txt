@@ -1,0 +1,7 @@
+C:\Users\Matheus\source\repos\CodAluno\CodAluno\bin\Debug\CodAluno.exe.config
+C:\Users\Matheus\source\repos\CodAluno\CodAluno\bin\Debug\CodAluno.exe
+C:\Users\Matheus\source\repos\CodAluno\CodAluno\bin\Debug\CodAluno.pdb
+C:\Users\Matheus\source\repos\CodAluno\CodAluno\obj\Debug\CodAluno.csprojAssemblyReference.cache
+C:\Users\Matheus\source\repos\CodAluno\CodAluno\obj\Debug\CodAluno.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\CodAluno\CodAluno\obj\Debug\CodAluno.exe
+C:\Users\Matheus\source\repos\CodAluno\CodAluno\obj\Debug\CodAluno.pdb

@@ -1,0 +1,7 @@
+C:\Users\Matheus\source\repos\ExercRetangulo\ExercRetangulo\bin\Debug\ExercRetangulo.exe.config
+C:\Users\Matheus\source\repos\ExercRetangulo\ExercRetangulo\bin\Debug\ExercRetangulo.exe
+C:\Users\Matheus\source\repos\ExercRetangulo\ExercRetangulo\bin\Debug\ExercRetangulo.pdb
+C:\Users\Matheus\source\repos\ExercRetangulo\ExercRetangulo\obj\Debug\ExercRetangulo.csprojAssemblyReference.cache
+C:\Users\Matheus\source\repos\ExercRetangulo\ExercRetangulo\obj\Debug\ExercRetangulo.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\ExercRetangulo\ExercRetangulo\obj\Debug\ExercRetangulo.exe
+C:\Users\Matheus\source\repos\ExercRetangulo\ExercRetangulo\obj\Debug\ExercRetangulo.pdb

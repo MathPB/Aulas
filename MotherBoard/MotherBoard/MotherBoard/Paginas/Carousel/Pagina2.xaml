@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MotherBoard.Paginas.Carousel.Pagina2">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="White" HorizontalOptions="Center" VerticalOptions="Center">
+
+
+            <Label Text="Placa Mãe  &#10; Strix B250G Gaming"
+                   TextColor="#0040FF"
+                   Font="Allerta"
+                   FontSize="Medium"
+                   FontAttributes="Bold"
+                   VerticalOptions="Fill" 
+                   HorizontalTextAlignment="Center" />
+
+            <ScrollView>
+                <AbsoluteLayout>
+                    <Image Source="Placa2.png"
+                       HorizontalOptions="Center"
+                       VerticalOptions="Center"  />
+                    <Button Text="1" x:Name="PROCESSADOR"
+                                   TextColor="Black" 
+                                   BorderColor="Transparent"
+                                   BackgroundColor="Transparent"
+                                   AbsoluteLayout.LayoutBounds="185,135,40,40"
+                                   Clicked="ClicarBotao"/>
+                    <Button Text="2" x:Name="RAM"
+                                   TextColor="Black" 
+                                   BorderColor="Transparent"
+                                   BackgroundColor="Transparent"
+                                   AbsoluteLayout.LayoutBounds="280,130,40,40"
+                                   Clicked="ClicarRAM"/>
+                    <Button Text="3" x:Name="IO"
+                                   TextColor="Black" 
+                                   BorderColor="Transparent"
+                                   BackgroundColor="Transparent"
+                                   AbsoluteLayout.LayoutBounds="60,140,40,40"
+                                   Clicked="ClicarIO" />
+                    <Button Text="4" x:Name="BATERIA"
+                                   TextColor="Black" 
+                                   BorderColor="Transparent"
+                                   BackgroundColor="Transparent"
+                                   AbsoluteLayout.LayoutBounds="194,283,40,40"
+                                   Clicked="ClicarBateria" />
+                    <Button Text="5" x:Name="SLOTS"
+                                   TextColor="Black" 
+                                   BorderColor="Transparent"
+                                   BackgroundColor="Transparent"
+                                   AbsoluteLayout.LayoutBounds="168,238,40,40"
+                                   Clicked="ClicarSLOTS" />
+                    <Button Text="6" x:Name="SOUTH"
+                                   TextColor="Black" 
+                                   BorderColor="Transparent"
+                                   BackgroundColor="Transparent"
+                                   AbsoluteLayout.LayoutBounds="265,290,40,40"
+                                   Clicked="ClicarSOUTH" />
+
+                    <Label Text=" •  CPU "
+                           TextColor="#FF0000"
+                           Font="Allerta"
+                           Style="{DynamicResource CaptionStyle}"
+                           FontAttributes="Bold"
+                           AbsoluteLayout.LayoutBounds="0,380,100,100" />
+                    <Label Text=" •  Memória Ram "
+                                  TextColor="#00FF00"
+                                  Font="Allerta"
+                                  Style="{DynamicResource CaptionStyle}"
+                                  FontAttributes="Bold"
+                                  AbsoluteLayout.LayoutBounds="0,400,300,450" />
+                    <Label Text=" •  Despositivos de entrada e saída "
+                                  TextColor="#0040FF"
+                                  Font="Allerta"
+                                  Style="{DynamicResource CaptionStyle}"
+                                  FontAttributes="Bold"
+                                  AbsoluteLayout.LayoutBounds="0,420,450,300" />
+                    <Label Text=" •  Bateria "
+                                  TextColor="#8A084B"
+                                  Font="Allerta"
+                                  Style="{DynamicResource CaptionStyle}"
+                                  FontAttributes="Bold"
+                                  AbsoluteLayout.LayoutBounds="0,440,300,300" />
+                    <Label Text=" •  Slot de expansão "
+                                  TextColor="#04B4AE"
+                                  Font="Allerta"
+                                  Style="{DynamicResource CaptionStyle}"
+                                  FontAttributes="Bold"
+                                  AbsoluteLayout.LayoutBounds="0,460,300,300" />
+                    <Label Text=" •  SouthBridge"
+                                  TextColor="#FFFF00"
+                                  Font="Allerta"
+                                  Style="{DynamicResource CaptionStyle}"
+                                  FontAttributes="Bold"
+                                  AbsoluteLayout.LayoutBounds="0,480,300,300" />
+                </AbsoluteLayout>
+            </ScrollView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

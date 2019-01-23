@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MotherBoard.Paginas.Carousel.ExpansaoSLOTS">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="White">
+            <Label Text="Slot de Expansão"
+                   TextColor="#0040FF"
+                   Font="Allerta"
+                   FontSize="Medium"
+                   FontAttributes="Bold"
+                   VerticalOptions="Fill" 
+                   HorizontalOptions="Center" />
+            <ScrollView>
+                <AbsoluteLayout>
+                    <Image Source="SLOTS.jpg"
+                       HorizontalOptions="CenterAndExpand"
+                       VerticalOptions="CenterAndExpand"  />
+
+                    <Label Text="• Slots são ranhuras que fazem parte integrante 
+                           das placas servindo para aumentar as suas 
+                           capacidades." 
+                           TextColor="#0040FF"
+                           LineBreakMode="CharacterWrap"
+                           HeightRequest="80"
+                           FontAttributes="Bold"
+                           Style="{DynamicResource SubtitleStyle}" 
+                           AbsoluteLayout.LayoutBounds="5,260,450,450"/>
+                    <Label Text="• Os slots de expansão são o encaixe onde são instaladas as placas de expansão." 
+                           TextColor="#0040FF"
+                           LineBreakMode="CharacterWrap"
+                           HeightRequest="80"
+                           FontAttributes="Bold"
+                           Style="{DynamicResource SubtitleStyle}" 
+                           AbsoluteLayout.LayoutBounds="5,325,450,450"/>
+                    <Label Text="• Uma Placa de expansão tem uma função específica: vídeo, som, rede, modem,controladora, etc..." 
+                           TextColor="#0040FF"
+                           LineBreakMode="CharacterWrap"
+                           HeightRequest="80"
+                           FontAttributes="Bold"
+                           Style="{DynamicResource SubtitleStyle}" 
+                           AbsoluteLayout.LayoutBounds="5,370,400,450"/>
+
+                </AbsoluteLayout>
+            </ScrollView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

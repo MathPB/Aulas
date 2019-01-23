@@ -1,0 +1,7 @@
+C:\Users\Matheus\source\repos\ExercicioFormula\ExercicioFormula\bin\Debug\ExercicioFormula.exe.config
+C:\Users\Matheus\source\repos\ExercicioFormula\ExercicioFormula\bin\Debug\ExercicioFormula.exe
+C:\Users\Matheus\source\repos\ExercicioFormula\ExercicioFormula\bin\Debug\ExercicioFormula.pdb
+C:\Users\Matheus\source\repos\ExercicioFormula\ExercicioFormula\obj\Debug\ExercicioFormula.csprojAssemblyReference.cache
+C:\Users\Matheus\source\repos\ExercicioFormula\ExercicioFormula\obj\Debug\ExercicioFormula.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\ExercicioFormula\ExercicioFormula\obj\Debug\ExercicioFormula.exe
+C:\Users\Matheus\source\repos\ExercicioFormula\ExercicioFormula\obj\Debug\ExercicioFormula.pdb

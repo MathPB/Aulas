@@ -1,0 +1,7 @@
+C:\Users\Matheus\source\repos\TriangRet\TriangRet\bin\Debug\TriangRet.exe.config
+C:\Users\Matheus\source\repos\TriangRet\TriangRet\bin\Debug\TriangRet.exe
+C:\Users\Matheus\source\repos\TriangRet\TriangRet\bin\Debug\TriangRet.pdb
+C:\Users\Matheus\source\repos\TriangRet\TriangRet\obj\Debug\TriangRet.csprojAssemblyReference.cache
+C:\Users\Matheus\source\repos\TriangRet\TriangRet\obj\Debug\TriangRet.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\TriangRet\TriangRet\obj\Debug\TriangRet.exe
+C:\Users\Matheus\source\repos\TriangRet\TriangRet\obj\Debug\TriangRet.pdb

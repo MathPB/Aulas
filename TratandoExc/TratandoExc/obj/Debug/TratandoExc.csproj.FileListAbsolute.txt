@@ -1,0 +1,7 @@
+C:\Users\Matheus\source\repos\TratandoExc\TratandoExc\bin\Debug\TratandoExc.exe.config
+C:\Users\Matheus\source\repos\TratandoExc\TratandoExc\bin\Debug\TratandoExc.exe
+C:\Users\Matheus\source\repos\TratandoExc\TratandoExc\bin\Debug\TratandoExc.pdb
+C:\Users\Matheus\source\repos\TratandoExc\TratandoExc\obj\Debug\TratandoExc.csprojAssemblyReference.cache
+C:\Users\Matheus\source\repos\TratandoExc\TratandoExc\obj\Debug\TratandoExc.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\TratandoExc\TratandoExc\obj\Debug\TratandoExc.exe
+C:\Users\Matheus\source\repos\TratandoExc\TratandoExc\obj\Debug\TratandoExc.pdb

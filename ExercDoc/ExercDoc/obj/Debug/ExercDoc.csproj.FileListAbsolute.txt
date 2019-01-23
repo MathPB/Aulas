@@ -1,0 +1,10 @@
+C:\Users\Matheus\source\repos\ExercDoc\ExercDoc\bin\Debug\ExercDoc.exe.config
+C:\Users\Matheus\source\repos\ExercDoc\ExercDoc\bin\Debug\ExercDoc.exe
+C:\Users\Matheus\source\repos\ExercDoc\ExercDoc\bin\Debug\ExercDoc.pdb
+C:\Users\Matheus\source\repos\ExercDoc\ExercDoc\obj\Debug\ExercDoc.csprojAssemblyReference.cache
+C:\Users\Matheus\source\repos\ExercDoc\ExercDoc\obj\Debug\ExercDoc.Form1.resources
+C:\Users\Matheus\source\repos\ExercDoc\ExercDoc\obj\Debug\ExercDoc.Properties.Resources.resources
+C:\Users\Matheus\source\repos\ExercDoc\ExercDoc\obj\Debug\ExercDoc.csproj.GenerateResource.cache
+C:\Users\Matheus\source\repos\ExercDoc\ExercDoc\obj\Debug\ExercDoc.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\ExercDoc\ExercDoc\obj\Debug\ExercDoc.exe
+C:\Users\Matheus\source\repos\ExercDoc\ExercDoc\obj\Debug\ExercDoc.pdb

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MotherBoard.Paginas.Carousel.MemoriaRAM">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="White">
+            <Label Text="Memória RAM"
+                   TextColor="#0040FF"
+                   Font="Allerta"
+                   FontSize="Medium"
+                   FontAttributes="Bold"
+                   VerticalOptions="Fill" 
+                   HorizontalOptions="Center" />
+            <ScrollView>
+                <AbsoluteLayout>
+                    <Image Source="MemoriaRAM.jpeg"
+                       HorizontalOptions="CenterAndExpand"
+                       VerticalOptions="CenterAndExpand"  />
+
+                    <Label Text="• A Memória RAM é um hardware de armazenamento randômico e volátil de memória." 
+                           TextColor="#0040FF"
+                           LineBreakMode="CharacterWrap"
+                           HeightRequest="80"
+                           FontAttributes="Bold"
+                           Style="{DynamicResource SubtitleStyle}" 
+                           AbsoluteLayout.LayoutBounds="5,270,400,450"/>
+                    <Label Text="• Isto significa que esta peça armazena dados de 
+                           programas em execução enquanto o computador 
+                           está ligado." 
+                           TextColor="#0040FF"
+                           LineBreakMode="CharacterWrap"
+                           HeightRequest="80"
+                           FontAttributes="Bold"
+                           Style="{DynamicResource SubtitleStyle}" 
+                           AbsoluteLayout.LayoutBounds="5,320,400,450" />
+                    <Label Text="• A memória RAM é de acesso rápido, é essencial para acompanhar a velocidade do processador." 
+                           TextColor="#0040FF"
+                           LineBreakMode="CharacterWrap"
+                           HeightRequest="80"
+                           FontAttributes="Bold"
+                           Style="{DynamicResource SubtitleStyle}" 
+                           AbsoluteLayout.LayoutBounds="5,390,400,450"/>
+                </AbsoluteLayout>
+            </ScrollView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

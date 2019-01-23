@@ -1,0 +1,7 @@
+C:\Users\Matheus\source\repos\CadastroFuncionario\CadastroFuncionario\bin\Debug\CadastroFuncionario.exe.config
+C:\Users\Matheus\source\repos\CadastroFuncionario\CadastroFuncionario\bin\Debug\CadastroFuncionario.exe
+C:\Users\Matheus\source\repos\CadastroFuncionario\CadastroFuncionario\bin\Debug\CadastroFuncionario.pdb
+C:\Users\Matheus\source\repos\CadastroFuncionario\CadastroFuncionario\obj\Debug\CadastroFuncionario.csprojAssemblyReference.cache
+C:\Users\Matheus\source\repos\CadastroFuncionario\CadastroFuncionario\obj\Debug\CadastroFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\CadastroFuncionario\CadastroFuncionario\obj\Debug\CadastroFuncionario.exe
+C:\Users\Matheus\source\repos\CadastroFuncionario\CadastroFuncionario\obj\Debug\CadastroFuncionario.pdb

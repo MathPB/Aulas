@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MotherBoard.Paginas.Carousel.EntradasIO">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="White">
+            <Label Text="Dispositivos de entrada e Saída"
+                   TextColor="#0040FF"
+                   Font="Allerta"
+                   FontSize="Medium"
+                   FontAttributes="Bold"
+                   VerticalOptions="Fill" 
+                   HorizontalOptions="Center" />
+            <ScrollView>
+                <AbsoluteLayout>
+                    <Image Source="IO.png"
+                       HorizontalOptions="CenterAndExpand"
+                       VerticalOptions="CenterAndExpand"  />
+
+                    <Label Text="• Os dispositivos de entrada e saída são também denominados periféricos." 
+                           TextColor="#0040FF"
+                           LineBreakMode="CharacterWrap"
+                           HeightRequest="80"
+                           FontAttributes="Bold"
+                           Style="{DynamicResource SubtitleStyle}" 
+                           AbsoluteLayout.LayoutBounds="5,310,400,450"/>
+                    <Label Text="• Eles permitem a interação do processador com o homem, possibilitando a entrada e a saída de dados." 
+                           TextColor="#0040FF"
+                           LineBreakMode="CharacterWrap"
+                           HeightRequest="80"
+                           FontAttributes="Bold"
+                           Style="{DynamicResource SubtitleStyle}" 
+                           AbsoluteLayout.LayoutBounds="5,365,400,450"/>
+                    <Label Text="• Dispositivos de entrada codificam a informação que entra em dados que possam ser processados pelo sistema digital do computador." 
+                           TextColor="#0040FF"
+                           LineBreakMode="CharacterWrap"
+                           HeightRequest="80"
+                           FontAttributes="Bold"
+                           Style="{DynamicResource SubtitleStyle}" 
+                           AbsoluteLayout.LayoutBounds="5,435,400,450"/>
+                    <Label Text="• Dispositivos de saída decodificam os dados em informações que podem ser entendida pelo usuário." 
+                           TextColor="#0040FF"
+                           LineBreakMode="CharacterWrap"
+                           HeightRequest="80"
+                           FontAttributes="Bold"
+                           Style="{DynamicResource SubtitleStyle}" 
+                           AbsoluteLayout.LayoutBounds="5,500,400,450"/>
+                </AbsoluteLayout>
+            </ScrollView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

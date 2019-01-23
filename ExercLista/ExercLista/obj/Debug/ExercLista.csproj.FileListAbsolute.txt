@@ -1,0 +1,7 @@
+C:\Users\Matheus\source\repos\ExercLista\ExercLista\bin\Debug\ExercLista.exe.config
+C:\Users\Matheus\source\repos\ExercLista\ExercLista\bin\Debug\ExercLista.exe
+C:\Users\Matheus\source\repos\ExercLista\ExercLista\bin\Debug\ExercLista.pdb
+C:\Users\Matheus\source\repos\ExercLista\ExercLista\obj\Debug\ExercLista.csprojAssemblyReference.cache
+C:\Users\Matheus\source\repos\ExercLista\ExercLista\obj\Debug\ExercLista.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\ExercLista\ExercLista\obj\Debug\ExercLista.exe
+C:\Users\Matheus\source\repos\ExercLista\ExercLista\obj\Debug\ExercLista.pdb

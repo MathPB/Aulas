@@ -1,0 +1,75 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebugType>pdbonly</DebugType>
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Xamarin.Forms" Version="3.1.0.697729" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Paginas\Carousel\Bateria.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Paginas\Carousel\EntradasIO.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Paginas\Carousel\ExpansãoSLOTS.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Paginas\Carousel\MemoriaRAM.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Paginas\Carousel\Pagina1.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Paginas\Carousel\Pagina2.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Paginas\Carousel\PaginaPrincipalApp.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Paginas\Carousel\Processador.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="MainPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="Paginas\Carousel\Bateria.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="Paginas\Carousel\EntradasIO.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="Paginas\Carousel\ExpansãoSLOTS.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="Paginas\Carousel\MemoriaRAM.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="Paginas\Carousel\Pagina1.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="Paginas\Carousel\Pagina2.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="Paginas\Carousel\PaginaPrincipalApp.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="Paginas\Carousel\Processador.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+  </ItemGroup>
+</Project>

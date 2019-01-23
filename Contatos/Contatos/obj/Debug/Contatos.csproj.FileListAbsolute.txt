@@ -1,0 +1,7 @@
+C:\Users\Matheus\source\repos\Contatos\Contatos\bin\Debug\Contatos.exe.config
+C:\Users\Matheus\source\repos\Contatos\Contatos\bin\Debug\Contatos.exe
+C:\Users\Matheus\source\repos\Contatos\Contatos\bin\Debug\Contatos.pdb
+C:\Users\Matheus\source\repos\Contatos\Contatos\obj\Debug\Contatos.csprojAssemblyReference.cache
+C:\Users\Matheus\source\repos\Contatos\Contatos\obj\Debug\Contatos.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\Contatos\Contatos\obj\Debug\Contatos.exe
+C:\Users\Matheus\source\repos\Contatos\Contatos\obj\Debug\Contatos.pdb

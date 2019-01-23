@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MotherBoard.Paginas.Carousel.Bateria">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="White">
+            <Label Text="Bateria"
+                   TextColor="#0040FF"
+                   Font="Allerta"
+                   FontSize="Medium"
+                   FontAttributes="Bold"
+                   VerticalOptions="Fill" 
+                   HorizontalOptions="Center" />
+            <ScrollView>
+                <AbsoluteLayout>
+                    <Image Source="Bateria.png"
+                       HorizontalOptions="CenterAndExpand"
+                       VerticalOptions="CenterAndExpand"  />
+
+                    <Label Text="• Essa bateria serve para: " 
+                           TextColor="#0040FF"
+                           LineBreakMode="CharacterWrap"
+                           HeightRequest="80"
+                           FontAttributes="Bold"
+                           Style="{DynamicResource SubtitleStyle}" 
+                           AbsoluteLayout.LayoutBounds="5,300,400,450"/>
+                    <Label Text="• Alimentar a memória de configuração (também chamada CMOS)." 
+                           TextColor="#0040FF"
+                           LineBreakMode="CharacterWrap"
+                           HeightRequest="80"
+                           FontAttributes="Bold"
+                           Style="{DynamicResource SubtitleStyle}" 
+                           AbsoluteLayout.LayoutBounds="5,330,400,450"/>
+                    <Label Text="• Alimentar o relógio de tempo real do computador (relógio que marca a data e a hora)." 
+                           TextColor="#0040FF"
+                           LineBreakMode="CharacterWrap"
+                           HeightRequest="80"
+                           FontAttributes="Bold"
+                           Style="{DynamicResource SubtitleStyle}" 
+                           AbsoluteLayout.LayoutBounds="5,375,400,450"/>
+                </AbsoluteLayout>
+            </ScrollView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

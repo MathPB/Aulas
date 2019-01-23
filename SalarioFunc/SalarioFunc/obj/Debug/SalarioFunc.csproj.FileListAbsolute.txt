@@ -1,0 +1,7 @@
+C:\Users\Matheus\source\repos\SalarioFunc\SalarioFunc\bin\Debug\SalarioFunc.exe.config
+C:\Users\Matheus\source\repos\SalarioFunc\SalarioFunc\bin\Debug\SalarioFunc.exe
+C:\Users\Matheus\source\repos\SalarioFunc\SalarioFunc\bin\Debug\SalarioFunc.pdb
+C:\Users\Matheus\source\repos\SalarioFunc\SalarioFunc\obj\Debug\SalarioFunc.csprojAssemblyReference.cache
+C:\Users\Matheus\source\repos\SalarioFunc\SalarioFunc\obj\Debug\SalarioFunc.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\SalarioFunc\SalarioFunc\obj\Debug\SalarioFunc.exe
+C:\Users\Matheus\source\repos\SalarioFunc\SalarioFunc\obj\Debug\SalarioFunc.pdb

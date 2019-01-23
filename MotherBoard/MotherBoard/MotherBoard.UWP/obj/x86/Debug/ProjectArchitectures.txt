@@ -1,0 +1,1 @@
+C:\Users\Matheus\source\repos\MotherBoard\MotherBoard\MotherBoard.UWP\MotherBoard.UWP.csproj;x86

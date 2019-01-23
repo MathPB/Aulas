@@ -1,0 +1,7 @@
+C:\Users\Matheus\source\repos\ExercConj\ExercConj\bin\Debug\ExercConj.exe.config
+C:\Users\Matheus\source\repos\ExercConj\ExercConj\bin\Debug\ExercConj.exe
+C:\Users\Matheus\source\repos\ExercConj\ExercConj\bin\Debug\ExercConj.pdb
+C:\Users\Matheus\source\repos\ExercConj\ExercConj\obj\Debug\ExercConj.csprojAssemblyReference.cache
+C:\Users\Matheus\source\repos\ExercConj\ExercConj\obj\Debug\ExercConj.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\ExercConj\ExercConj\obj\Debug\ExercConj.exe
+C:\Users\Matheus\source\repos\ExercConj\ExercConj\obj\Debug\ExercConj.pdb

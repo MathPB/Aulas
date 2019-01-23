@@ -1,0 +1,7 @@
+C:\Users\Matheus\source\repos\EstoqueProduto\EstoqueProduto\bin\Debug\EstoqueProduto.exe.config
+C:\Users\Matheus\source\repos\EstoqueProduto\EstoqueProduto\bin\Debug\EstoqueProduto.exe
+C:\Users\Matheus\source\repos\EstoqueProduto\EstoqueProduto\bin\Debug\EstoqueProduto.pdb
+C:\Users\Matheus\source\repos\EstoqueProduto\EstoqueProduto\obj\Debug\EstoqueProduto.csprojAssemblyReference.cache
+C:\Users\Matheus\source\repos\EstoqueProduto\EstoqueProduto\obj\Debug\EstoqueProduto.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\EstoqueProduto\EstoqueProduto\obj\Debug\EstoqueProduto.exe
+C:\Users\Matheus\source\repos\EstoqueProduto\EstoqueProduto\obj\Debug\EstoqueProduto.pdb
